@@ -1,0 +1,31 @@
+name: Bug Report
+description: File a bug report
+labels: ["Bug"]
+assignees:
+  - TheClassic36
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: dropdown
+    id: modversion
+    attributes:
+      label: Mod Version
+      description: Which version of Revert DAF Sounds are you using?
+      options:
+        - v1.0.1
+        - v1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: etsversion
+    attributes:
+      label: ETS2 Version
+      description: Which version of Euro Truck Simulator 2 are you using?
+      placeholder: Please keep in mind that Revert DAF Sounds is only compatible with ETS2 v1.47.1.x
+    validations:
+      required: true
