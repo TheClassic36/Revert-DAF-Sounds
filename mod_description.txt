@@ -1,1 +1,16 @@
-Brings the old 1.46 sounds of the DAF 2021 truck forward to 1.47.
+[orange]Revert DAF Sounds
+[normal]A simple Euro Truck Simulator 2 mod that reverts the v1.47 DAF 2021 truck sounds back to v1.46.
+
+[orange]Downloads
+[normal]Downloads for the mod can be found at [blue]https://github.com/TheClassic36/Revert-DAF-Sounds/releases
+
+[orange]Versions
+[normal]- ETS2 v1.47.1.x = Revert DAF Sounds v1.0.0-v1.0.1
+
+[orange]Support Requests
+[normal]Please open any support requests on GitHub at [blue]https://github.com/TheClassic36/Revert-DAF-Sounds/issues
+
+[orange]Some things to note
+[normal] - This mod uses SCS Software's DAF 2021 truck sounds from v1.46 of ETS2. No sounds are my own creation.
+- I don't intend to update this mod with any other sounds, for the DAF or for other trucks.
+- I will try to keep the mod up-to-date with the latest versions of ETS2 where possible.

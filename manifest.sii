@@ -5,25 +5,21 @@ SiiNunit
 # with other mod packages (name collisions).
 mod_package : .package_name
 {
-        # Package version can be any string with any length.
-        package_version: "v1.0.0"
+        package_version: "v1.0.1"
 
-        # Display name can be any string with any length.
-        display_name: "DAF 2021 1.46 Sounds"
+        display_name: "Revert DAF Sounds"
 
-        # Author can be any string with any length.
         author: "Classic36"
 
-        # Categories is an array of strings.
         category[]: "sound"
         category[]: "truck"
 
-        # Icon inside the root directory of the mod.
         icon: "mod_icon.jpg"
 
-        # Description file inside the root directory of the mod.
         description_file: "mod_description.txt"
 
-        # compatible_versions[]: "1.47.*" # Mod is compatible with 1.47.X..
+        # compatible_versions[]: "1.47.*"
+		
+		# dlc_dependencies[]: "dlc_daf_2021"
 }
 }
