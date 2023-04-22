@@ -20,6 +20,6 @@ mod_package : .package_name
 
         # compatible_versions[]: "1.47.*"
 		
-		# dlc_dependencies[]: "dlc_daf_2021"
+        # dlc_dependencies[]: "dlc_daf_2021"
 }
 }
