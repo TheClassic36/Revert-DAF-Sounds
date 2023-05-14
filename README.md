@@ -10,7 +10,9 @@ Downloads for the mod can be found [here](https://github.com/TheClassic36/Revert
 * ETS2 v1.47.1.x = Revert DAF Sounds v1.0.2
 
 ## Support Requests
-Please open any support requests [here on GitHub](https://github.com/TheClassic36/Revert-DAF-Sounds/issues).
+Please open any support requests [here on GitHub](https://github.com/TheClassic36/Revert-DAF-Sounds/issues) or on Discord:
+
+[![](https://dcbadge.vercel.app/api/server/vZJSDjPcmu)](https://discord.gg/vZJSDjPcmu)
 
 ## Some things to note
 * This mod uses SCS Software's DAF 2021 truck sounds from v1.46 of ETS2. No sounds are my own creation.
