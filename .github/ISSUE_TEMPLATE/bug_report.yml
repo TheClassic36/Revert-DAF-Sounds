@@ -17,6 +17,7 @@ body:
       label: Mod Version
       description: Which version of Revert DAF Sounds are you using?
       options:
+        - v1.0.3
         - v1.0.2
         - v1.0.1
         - v1.0.0
@@ -27,6 +28,6 @@ body:
     attributes:
       label: ETS2 Version
       description: Which version of Euro Truck Simulator 2 are you using?
-      placeholder: Please keep in mind that Revert DAF Sounds is only compatible with ETS2 v1.47.1.x
+      placeholder: Please keep in mind that Revert DAF Sounds is only compatible with ETS2 v1.47.1.x & v1.47.2.x
     validations:
       required: true
