@@ -7,7 +7,7 @@ Downloads for the mod can be found [here](https://github.com/TheClassic36/Revert
 
 ## Versions
 
-* ETS2 v1.47.1.x - v1.47.2.x = Revert DAF Sounds [v1.0.2](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.0.2)
+* ETS2 v1.47.1.x - v1.47.2.x = Revert DAF Sounds [v1.0.3](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.0.3)
 
 ## Support Requests
 Please open any support requests [here on GitHub](https://github.com/TheClassic36/Revert-DAF-Sounds/issues) or on Discord:
