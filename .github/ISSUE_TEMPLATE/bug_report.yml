@@ -15,13 +15,11 @@ body:
     id: modversion
     attributes:
       label: Mod Version
-      description: Which version of Revert DAF Sounds are you using?
+      description: Which version of Revert DAF Sounds are you using? If the version you are running is not listed, please update first.
       options:
-        - v1.1.0-beta1
+        - v1.1.0-beta2
         - v1.0.3
         - v1.0.2
-        - v1.0.1
-        - v1.0.0
     validations:
       required: true
   - type: textarea
