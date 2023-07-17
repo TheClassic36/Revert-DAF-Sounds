@@ -17,7 +17,7 @@ body:
       label: Mod Version
       description: Which version of Revert DAF Sounds are you using? If the version you are running is not listed, please update first.
       options:
-        - v1.1.0-beta2
+        - v1.1.0-beta3
         - v1.0.3
         - v1.0.2
     validations:
