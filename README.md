@@ -16,7 +16,7 @@ This mod is only compatible with the following DAF truck models:
 
 ## Versions
 
-* ETS2 1.49.0.x (Open Beta) = Revert DAF Sounds [v1.2.0-beta1](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.2.0-beta1)
+* ETS2 1.49.1.x - 1.49.2.x = Revert DAF Sounds [v1.2.0](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.2.0)
 * ETS2 1.48.1.x - 1.48.5.x = Revert DAF Sounds [v1.1.0](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.1.0)
 * ETS2 1.47.1.x - 1.47.3.x = Revert DAF Sounds [v1.0.3](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.0.3)
 
