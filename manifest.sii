@@ -2,9 +2,9 @@ SiiNunit
 {
 mod_package : .package_name
 {
-        package_version: "v1.2.0"
+        package_version: "v1.2.1"
 
-        display_name: "Revert DAF Sounds v1.2.0"
+        display_name: "Revert DAF Sounds v1.2.1"
 
         author: "Classic36"
 
@@ -15,8 +15,8 @@ mod_package : .package_name
 
         description_file: "mod_description.txt"
 
-        # compatible_versions[]: "1.49.*"
+        compatible_versions[]: "1.49.*"
 		
-        # dlc_dependencies[]: "dlc_daf_2021"
+        dlc_dependencies[]: "dlc_daf_2021"
 }
 }

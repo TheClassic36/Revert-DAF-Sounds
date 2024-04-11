@@ -1,5 +1,8 @@
 # Revert DAF Sounds
-A simple Euro Truck Simulator 2 mod that reverts the 1.47+ DAF 2021 truck sounds back to their 1.46 counterparts.
+A simple Euro Truck Simulator 2 mod that reverts the 1.47-1.49 DAF 2021 truck sounds back to their 1.46 counterparts.
+
+> [!WARNING]
+> Revert DAF Sounds will not be updated beyond ETS2 version 1.49.
 
 ## Downloads
 
@@ -12,20 +15,21 @@ This mod is only compatible with the following DAF truck models:
 * DAF 2021 XF
 * DAF 2021 XG
 * DAF 2021 XG+
-* DAF 2021 XD
+* DAF 2021 XD (v1.3.0+)
 
 ## Versions
 
-* ETS2 1.49.1.x - 1.49.3.x = Revert DAF Sounds [v1.2.0](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.2.0)
-* ETS2 1.48.1.x - 1.48.5.x = Revert DAF Sounds [v1.1.0](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.1.0)
-* ETS2 1.47.1.x - 1.47.3.x = Revert DAF Sounds [v1.0.3](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.0.3)
+| ETS2 Version | Revert DAF Sounds Version |
+| :--: | :--: |
+| 1.49 |  [v1.2.1](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.2.1) |
+| 1.48 - 1.48.5 |  [v1.1.0](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.1.0) |
+| 1.47 |  [v1.0.3](https://github.com/TheClassic36/Revert-DAF-Sounds/releases/tag/v1.0.3) |
 
 ## Support Requests
 Please open any support requests [here on GitHub](https://github.com/TheClassic36/Revert-DAF-Sounds/issues) or on Discord:
 
 [![](https://dcbadge.vercel.app/api/server/vZJSDjPcmu)](https://discord.gg/vZJSDjPcmu)
 
-## Some things to note
-* This mod uses SCS Software's DAF 2021 truck sounds from 1.46 of ETS2. No sounds are my own creation.
-* I don't intend to update this mod with any other sounds for the DAF or for other trucks.
-* I will try to keep the mod up-to-date with the latest versions of ETS2 where possible.
+## Notes
+* This mod uses SCS Software's DAF 2021 truck sounds from version 1.46 of ETS2. No sounds are my own creation.
+* Revert DAF Sounds will not be updated beyond ETS2 version 1.49.
