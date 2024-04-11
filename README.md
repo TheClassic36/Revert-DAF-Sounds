@@ -15,7 +15,6 @@ This mod is only compatible with the following DAF truck models:
 * DAF 2021 XF
 * DAF 2021 XG
 * DAF 2021 XG+
-* DAF 2021 XD (v1.3.0+)
 
 ## Versions
 
